@@ -81,7 +81,7 @@ CREATE DATABASE courses_website;
 
 \c courses_website
 
-\i C:\Users\USER\Desktop\courses_website.sql
+\i 'C:/Users/USER/Desktop/courses_website.sql'
 
 \dt
 
